@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://i.mjh.nz/nz/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.1.png",凤凰中文
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.1.png",[X]凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.2.png",凤凰资讯
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.2.png",[X]凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.3.png",港台电视31
@@ -12,14 +12,11 @@ http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.4.png",港台电视32
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.4.png",有线新闻台
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.4.png",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.4.png",香港开电视
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.4.png",香港HOYtv
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.5.png",半岛新闻台
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.6.png",彭博财经
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
@@ -33,8 +30,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",CBS Boston
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png",欧洲新闻
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.14.png",Cheddar
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.12.png",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -42,14 +39,17 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png",NHK
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.14.png",Cheddar
-https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.5.png",半岛新闻台
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.15.png",SkyNews
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png",欧洲新闻
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.15.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.15.png",SkyNews
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.16.png",TRTnews
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
