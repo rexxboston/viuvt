@@ -21,10 +21,7 @@ http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.10", Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-id="tv.10", [Bloomberg]
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-
-#EXTINF:-1 tvg-id="tv.10", Bloomberg[4K]
+#EXTINF:-1 tvg-id="tv.10", [Bloomberg+]
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv.10",NewsMax
@@ -72,7 +69,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="tv.10", TALKtv
 https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10", Frances4
+#EXTINF:-1 tvg-id="tv.10", France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="tv.10", FOX Now
