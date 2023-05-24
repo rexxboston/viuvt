@@ -1,27 +1,97 @@
 #EXTM3U x-tvg-url="http://i.mjh.nz/nz/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="tv.10", 凤凰中文
+https://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="tv.10", 凤凰资讯
+https://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",港台电视31
+#EXTINF:-1 tvg-id="tv.10", 港台电视31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",港台电视32
+#EXTINF:-1 tvg-id="tv.10", 港台电视32
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.10", 有线新闻
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",亚洲新闻
+#EXTINF:-1 tvg-id="tv.10", 香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", 无线新闻台
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-45547b8e-451d-4368-80bf-509036f8720e.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", TVB翡翠台
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-73905fd6-73e2-4bee-9212-8f1fc7534e65.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", TVB财经台
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-38510ebc-7c04-45e5-b158-6a170682af3f.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", 央视新闻
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 tvg-id="tv.10", 浙江卫视
+https://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", 北京新闻
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1684890875&sign=c7d949814fd3d36a9a68a3b96b7365af
+
+#EXTINF:-1 tvg-id="tv.10", Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", [Bloomberg+]
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",CBS Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", Cheddar
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", NewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",SkyNews
+#EXTINF:-1 tvg-id="tv.10", NHK world
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", EuroNews
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", D.W.
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", SkyNews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",TRTnews
+#EXTINF:-1 tvg-id="tv.10", TRTnews
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", OAN
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", iCNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", CBSn
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", TALKtv
+https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tv.10", FOX Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 
 
