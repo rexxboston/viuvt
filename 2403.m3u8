@@ -48,5 +48,5 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/arirang.jpg",韩-阿里郎[英]
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/koreatv.png",韩-KoreaTV[韩]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="images/koreatv.png",韩-KoreaTV[韩]
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
