@@ -34,7 +34,7 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/nhk.jpg",日-NHK[英]
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rt.jpg",俄-RT[英]
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
