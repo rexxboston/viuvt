@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HLS Stream with hls.js</title>
+  <style>
+    video { width: 100%; max-width: 1200px; }
+  </style>
+</head>
+<body>
+
+<video id="video" controls autoplay></video>
+
+<!-- Load hls.js from CDN -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script> -->
+<script src="hls.js"></script>
+<script>
+  const video = document.getElementById('video');
+  const hlsUrl = 'https://www.bloomberg.com/media-manifest/streams/us.m3u8'; // ← your m3u8 URL
+
+  if (Hls.isSupported()) {
+    const hls = new Hls({
+      // Optional config
+      xhrSetup: function(xhr, url) {
+        // Add headers if your stream requires authentication
+        // xhr.setRequestHeader('Authorization', 'Bearer your-token');
+      }
+    });
+    hls.loadSource(hlsUrl);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      video.play();
+    });
+  }
+  // Safari on macOS/iOS supports HLS natively
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = hlsUrl;
+    video.addEventListener('loadedmetadata', function() {
+      video.play();
+    });
+  }
+</script>
+</body>
+</html>
