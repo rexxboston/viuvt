@@ -42,6 +42,9 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rt.jpg",俄-RT[英]
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/arirang.jpg",韩-阿里郎[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk31.png",港台31[粤]
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk32.png",港台32[粤]
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
