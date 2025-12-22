@@ -18,6 +18,15 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/nbc_home.jpg",美-NBC房产[英]
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/cbs_bs.jpg",美-CBSboston[英]
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/cbs_sf.jpg",美-CBSsf[英]
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/cbs_mm.jpg",美-CBSmiami[英]
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/pbskids.png",美-PBSkids[英]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
@@ -42,9 +51,9 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rt.jpg",俄-RT[英]
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk31.png",港台31[粤]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk31.jpg",港台31[粤]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk32.png",港台32[粤]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk32.jpg",港台32[粤]
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
