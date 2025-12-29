@@ -57,7 +57,7 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlay
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/rthk32.jpg",港台32[粤]
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/hklt.png",==地区限定==
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/hklt.jpg",==地区限定==
 https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/rexxboston/viuvt/refs/heads/main/images/ht78.jpg",开电视78[粤]
